@@ -6,4 +6,7 @@ public class Test {
 		
 		System.out.println("helloword");
 	}
+	public void name() {
+		System.out.println("hello");
+	}
 }
